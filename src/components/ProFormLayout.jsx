@@ -58,7 +58,7 @@ const ProFormLayout = () => {
 						</div>
 						<div className='flex flex-col mt-5'>
 							<h2 className='text-sm'>Select Option</h2>
-							<div className='grid grid-cols-3 w-full gap-x-5'>
+							<div className='grid grid-cols-2 w-full gap-x-5'>
 								<div className='flex space-x-2'>
 									<input
 										type='radio'
